@@ -27,3 +27,13 @@ The program demonstrates GUI design, event handling, and basic expression evalua
 
 
 ## Project Structure
+
+
+- `App.java`  
+  Contains the `main()` method and starts the calculator application.
+
+- `Calculator.java`  
+  Implements the calculator GUI using Java Swing and contains all button logic, event handling, and calculation functionality.
+
+- `README.md`  
+  Provides documentation and instructions for the project.
